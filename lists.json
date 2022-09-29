@@ -1,0 +1,20 @@
+{
+  "name": "Default list",
+  "list": []
+}{
+  "name": "My Todo List",
+  "list": [
+    {
+      "id": 2377,
+      "title": "Todo Item 1"
+    },
+    {
+      "id": 5599,
+      "title": "Todo Item 2"
+    },
+    {
+      "id": 8004,
+      "title": "Todo Item 3"
+    }
+  ]
+}
